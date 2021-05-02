@@ -15,4 +15,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+
+  <build>
+    <finalName>docker-jenkins-integration-sample</finalName>
+</build>
+  
 </project>
